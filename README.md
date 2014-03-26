@@ -1,6 +1,6 @@
 sample-adventure instructions
 =================
-this is a readme file
+this is the readme file
 
 instruction goes here
 
