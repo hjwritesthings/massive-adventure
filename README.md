@@ -1,4 +1,4 @@
-massive-adventure
+sample-adventure instructions
 =================
 this is a readme file
 
